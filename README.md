@@ -1,7 +1,5 @@
 ## ⚡ Ave! I'm Vlad
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d21eagle&show_icons=true&theme=radical)
-
 ### 💼 Technologies  :
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore"></code>
