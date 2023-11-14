@@ -1,6 +1,6 @@
 ## ⚡ Ave! I'm Vlad
 
-💻 Core Stack: C#, ASP.NET Core, Entity Framework, PostgreSQL, Docker, xUnit
+💻 Core Stack: C#, ASP.NET Core, Entity Framework, PostgreSQL, Docker, xUnit, React.JS
 
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore"></code>
