@@ -1,6 +1,6 @@
 ## ⚡ Ave! I'm Vlad
 
-### My CV is [here](https://paint-leech-9ff.notion.site/CV-b05dea176e814654860deb869157298f?pvs=4).
+### My CV is [here](https://www.notion.so/CV-b05dea176e814654860deb869157298f).
 
 ### 💻 Technologies  :
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp"></code>
