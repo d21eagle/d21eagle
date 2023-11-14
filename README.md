@@ -4,8 +4,8 @@
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react"></code>
 <br></br>
 
 * 💼 I'm currently interning at Gems Development
