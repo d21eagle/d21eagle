@@ -10,7 +10,7 @@
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react"></code>
 <br></br>
 
-* 💼 I'm currently interning at Gems Development
+* 💼 I'm currently interning at [Gems Development](https://gemsdev.ru/?ysclid=loymflxubj496069174)
 * 🎓 Omsk State University: **(2020-2024)**
 <br></br>
 
