@@ -20,3 +20,4 @@ My CV is [here](https://www.notion.so/CV-b05dea176e814654860deb869157298f).
 
 ### 📱 Contacts:
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white&color=9cf)](https://t.me/done_eagle)
+[![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=flat&logo=Gmail&logoColor=white&color=red)](mailto:vlad180317@gmail.com)
