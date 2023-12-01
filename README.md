@@ -1,12 +1,9 @@
 ## ⚡ Ave! I'm Vlad
 
-💻 Core Stack: C#, ASP.NET Core, Entity Framework, PostgreSQL, Docker, xUnit, React.JS
+💻 Core Stack: C#, ASP.NET Core, Entity Framework, PostgreSQL, Docker, xUnit
 
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react"></code>
 <br></br>
 
 My CV is [here](https://www.notion.so/CV-b05dea176e814654860deb869157298f).
