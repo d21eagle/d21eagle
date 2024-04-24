@@ -1,6 +1,6 @@
 ## ⚡ Ave! I'm Vlad
 
-💻 Core Stack: C#, ASP.NET Core, Entity Framework, PostgreSQL, Docker
+💻 Core Stack: C#, ASP.NET Core, Entity Framework, PostgreSQL, Docker, Keycloak
 <br></br>
 
 My CV is [here](https://www.notion.so/CV-b05dea176e814654860deb869157298f).
