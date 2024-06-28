@@ -5,7 +5,6 @@
 
 My CV is [here](https://www.notion.so/CV-b05dea176e814654860deb869157298f).
 
-* 💼 I'm currently interning at [Gems Development](https://gemsdev.ru/?ysclid=loymflxubj496069174)
 * 🎓 Omsk State University: **(2020-2024)**
 <br></br>
 
